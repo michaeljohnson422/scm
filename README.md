@@ -1,1 +1,2 @@
 # scm
+SCM Ontology prototype
